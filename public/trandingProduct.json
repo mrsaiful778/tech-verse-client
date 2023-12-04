@@ -1,0 +1,83 @@
+[
+    {
+      "id": "001",
+      "productName": "Intel 13th Gen Core i9-13900K Desktop Processor",
+      "price": 165,
+      
+      "description": "Intel are at the forefront of computing technology, expanding its knowledge and pushing for breakthroughs every day. Intel are industry leaders in many technology sectors but they are most well known for their Core, Xeon, and Atom processors for desktops, servers and laptops respectively. If you take a look inside any high-end system, chances are that it's using an Intel processor.",
+      "image": "https://i.ibb.co/CbS18kJ/71-ARN1-Ls82-L-AC-SL1080.jpg",
+      "upvote": 0,
+      "downvote": 0
+    },
+    {
+      "id": "002",
+      "productName": "AMD Ryzen 9 7950X 16-Core 32-Threads Processors ",
+      "price": 155,
+      "voteCount": 90,
+      "description": "The Future Of Ryzen™ Processors Get fast “Zen 4” performance with AMD Socket AM5 motherboards.The all-new AMD Ryzen 7000 Series processors are packed with state-of-the-art technologies for an effortlessly modern PC. Highlights include high-speed DDR5 memory, PCIe® 5.0 support, AMD EXPO™ one-touch memory overclocking, and hyper-efficient 5nm manufacturing. Put an AMD Socket AM5 motherboard at the heart of your rig to dominate the games you love today and tomorrow. If your PC needs the latest and greatest capabilities, insist on AMD Ryzen™ processors.",
+      "image": "https://i.ibb.co/GvGyM9V/AMD-Ryzen-Zen-CPUs-Next-Gen.jpg",
+      "upvote": 0,
+      "downvote": 0
+    },
+    {
+      "id": "003",
+      "productName": "MSI PULSE 17 B13VGK 13th Gen Intel Core i9-13900H",
+      "price": 500,
+      "voteCount": 150,
+      "description": "MSI PULSE 17 B13VGK 13th Gen Intel Core i9-13900H up to 5.40GHz Processor, 24MB Cache, 14x Cores, 20x Threads / 16GB DDR5 RAM / 1TB Ultra-Fast NVMe SSD. NVIDIA® GeForce RTX™ 40 Series Laptop GPUs power the world’s fastest laptops for gamers and creators. Built with the ultra-efficient NVIDIA Ada Lovelace architecture, they bring a quantum leap in performance with AI-powered DLSS 3 and enable lifelike virtual worlds with full ray tracing.",
+      "image": "https://i.ibb.co/sK8qwLG/876d3fa3b0445bd3ba6fd811e8e7ddad-hi.jpg",
+      "upvote": 0,
+      "downvote": 0
+    },
+    {
+      "id": "004",
+      "productName": "ASUS TUF Gaming A17 FA707XI AMD Ryzen 9-7940HS",
+      "price": 400,
+      "voteCount": 80,
+      "description": "ASUS TUF Gaming A17 FA707XI AMD Ryzen 9-7940HS up to 5.20GHz Processor, 16MB Cache, 8x Cores, 16x Threads / 16GB DDR5 RAM / 1TB Ultra-Fast NVMe SSD. High core count CPUs create more heat when at full load. The TUF Gaming A17 is equipped to handle its high-power CPU with a pair of 84-blade Arc Flow Fans™. Our new variable thickness design has the dual benefit of increasing pressure while reducing turbulence,",
+      "image": "https://i.ibb.co/M5dxN3g/original.jpg",
+      "upvote": 0,
+      "downvote": 0
+    },
+    {
+      "id": "005",
+      "productName": "Antec RGB GPU 4GB Support Bracket, Graphics Card",
+      "price": 110,
+      "voteCount": 110,
+      "description": "Exclusive vertical grid-like shape design, similar to the steel framed building, supports your graphics card stably.Compatible with difference graphics cards sizes, provide strong support.Aluminum alloy material is applied to the main object, with high strength and durability High quality sandblasting treatment is Included.Height-adjustable supporting arm is available from 46 to 165 mm, with 55 mm depth, suits for various graphics card shape.",
+      "image": "https://i.ibb.co/HV1Xwn2/291ad36f-a656-49c0-92fa-ba5a97e793b7-CR0-0-970-600-PT0-SX970-V1.jpg",
+      "upvote": 0,
+      "downvote": 0
+    },
+    {
+      "id": "006",
+      "productName": "RYZEN 9 7950X3D 5.7GHz RTX 4090 24GB DDR5 Budget Gaming PC",
+      "price": 810,
+      
+      "description": "AMD RYZEN 9 7950X3D (4.2GHz, 144MB Cache, 16x Cores, 32x Threads, PCIe 5.0 (Turbo 5.7GHz+) CPU, AMD B650 Series AM5 DDR5 USB3.2 HDMI, AMD RYZEN Motherboard, GeForce RTX 4090 24GB GDDR6X DX12 Graphics Card, 16GB DDR5 5600MHz High Performance RAM, 1TB NVME SSD Upto 3100MB/s + Speed Ultra-Fast Solid State Drive, 1000W 80+ High Performance Power Supply, Evetech TRIO RGB Tempered Glass GAMING CASE, Integrated 8 CH High Defination Sound Card, LCD and OS Optional, ",
+      "image": "https://i.ibb.co/qpYChPV/evetech-trio-gaming-case-pc-600px-v1.png",
+      "upvote": 0,
+      "downvote": 0
+    },
+    {
+      "id": "007",
+      "productName": "XPG-Lancer-RGB-DDR5 32GB",
+      "price": 143,
+      
+      "description": "XPG LANCER 7200 DDR5 memory features Hynix A-die chips for easy overclocking. This allows gamers to overclock their systems to higher speeds quickly and easily. The LANCER 7200 series comes in variants with or without RGB lighting. They also come with two heat sink color options to meet different aesthetic preferences, including Midnight Black and Snow White. Taking advantage of Intel’s launch of the latest 13th Gen Intel® Core™ Processor family, XPG took the initiative to launch the XPG LANCER DDR5 7200 to upgrade with Z790 motherboards.",
+      "image": "https://i.ibb.co/xJhnQRn/xpg-lancer-rgb-red-dot-1920x1080.jpg",
+      "upvote": 0,
+      "downvote": 0
+    },
+    {
+      "id": "008",
+      "productName": "MSI Z87 MPOWER MOTHERBOARD",
+      "price": 229,
+      
+      "description": "The Z87 MPOWER board is one of the first boards released as part of MSI's Z87 update of the much vaunted MPOWER line. The board supports the next generation of Intel processors based on the LGA1150 socket (Haswell), and is packed full of features and overclocking goodness. In-line with the MPower's established theme, the Z87 MPower board maintain's the black and yellow stylings from the last generation with the MSI brand logo proudly displeased on the chipset heat sink..",
+      "image": "https://i.ibb.co/pK9MSgD/1e1f-03-z87mpower-58.jpg",
+      "upvote": 0,
+      "downvote": 0
+    }
+  ]
+  
